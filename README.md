@@ -54,5 +54,7 @@
 <h2>Odkazy:</h2>
 <ul>
     <li>[draw io](https://drive.google.com/file/d/1BXjobKuj86sb-pP-ZkmGqizEzrVMTmkp/view?usp=sharing)</li>
+    <li>[pages](https://pslib-cz.github.io/2025-p2b-web-project-adamsoldat/))</li>
+    
 </ul>
 
