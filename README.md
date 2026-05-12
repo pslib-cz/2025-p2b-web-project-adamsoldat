@@ -50,3 +50,9 @@
     <li>popisy koření a jejich využití</li>
     <li>základní informace o firmě</li>
 </ul>
+
+<h2>Odkazy:</h2>
+<ul>
+    <li>[draw io](https://drive.google.com/file/d/1BXjobKuj86sb-pP-ZkmGqizEzrVMTmkp/view?usp=sharing)</li>
+</ul>
+
